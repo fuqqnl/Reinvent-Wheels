@@ -1,0 +1,17 @@
+{
+  "name": "my-webpack",
+  "version": "1.0.0",
+  "description": "通过对webpack的总体逻辑进行简单重写，更加了解webpack的底层机制，也就会更加了解webpack中的loader、plugin等机制。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/parser": "^7.15.3",
+    "@babel/traverse": "^7.15.0"
+  }
+}
