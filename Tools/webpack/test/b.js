@@ -1,5 +1,1 @@
-export defalut {
-    b: () => {
-        console.log('b.js执行');
-    }
-}
+export default (a, b) => a + b;

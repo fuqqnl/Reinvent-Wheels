@@ -1,2 +1,2 @@
-const t1 = '1234';
-import b from './b';
+import add from './b.js';
+console.log(add(3, 3));
